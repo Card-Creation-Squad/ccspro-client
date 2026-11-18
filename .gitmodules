@@ -1,0 +1,3 @@
+[submodule "ocgcore"]
+	path = ocgcore
+	url = https://github.com/Rundas01/ccspro-core.git
